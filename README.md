@@ -1,3 +1,3 @@
 # CLBLSQL
 
-#CelebalTechnologiesSQL
+#SQL
